@@ -6,3 +6,5 @@
 * 4 https://www.notion.so/Forms-in-HTML-2643a78e0e2280ddadb4c7151cfb3c5f?source=copy_link
 * 5 https://www.notion.so/HTML-MEDIA-2673a78e0e2280e7aaede039776da705
 ## CSS Notes
+* 1 https://www.notion.so/CSS-Introduction-2683a78e0e2280499877dcac0df77992?source=copy_link
+* 2 https://www.notion.so/Box-Model-Lecture-02-2693a78e0e228042ac64e8f3f1bfca86?source=copy_link
