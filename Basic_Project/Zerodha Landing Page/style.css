@@ -1,7 +1,49 @@
 #main {
-    display: flex; justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 0 100px;
+    box-shadow: 0px 1px 2px #eee;
+}
+
+#child {
+    display: flex;
 }
 
 #img {
-    width: 150px;
+    width: 120px;
+    height: 25px; 
+    padding-top: 10px;
+}
+
+#signup, #about, #product, #pricing, #support {
+    padding: 20px;
+    color: #666;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
+#image {
+    display: flex; 
+    justify-content: center;
+    padding-top: 30px;
+}
+
+#down {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;    
+    padding-top: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#button_new button {
+    background-color: #387ed1; 
+    color: white;              
+    padding: 10px 30px;        
+    border-radius: 3px;        
+    font-size: 20px;           
+    border: none;
+    cursor: pointer;
 }
